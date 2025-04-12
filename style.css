@@ -33,11 +33,11 @@ header {
 }
 
 .main-nav li.active a {
-	border-bottom: 1px solid white;
+	border-bottom: 3px solid rgb(94, 22, 22);
 }
 
 .main-nav li a:hover {
-	border-bottom: 1px solid white;
+	border-bottom: 3px solid rgb(94, 22, 22);
 }
 
 .logo {
@@ -84,11 +84,11 @@ h1 {
 }
 
 .btn-one {
-	background-color: darkorange;
+	background-color: rgb(201, 74, 84);
 }
 
 .btn-two:hover {
-	background-color: darkorange;
+	background-color:rgb(201, 74, 84);
 	transition: all 0.2s ease-in;
 }
 
@@ -164,7 +164,7 @@ h1 {
 }
 
 .form input.button {
-    background-color: #4CAF50; /* Green */
+    background-color: #c53447; /* Dark Red */
     border: none;
     color: white;
     width: 71%;
